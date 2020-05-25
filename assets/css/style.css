@@ -88,7 +88,6 @@ main {
 aside {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
     height: 100%;
@@ -110,7 +109,8 @@ aside section img {
 main section {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: auto;
+    min-height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;

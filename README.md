@@ -21,3 +21,7 @@ In css, deleted styles with duplicated styling. 1 style for h2, h3, and divs tha
 Condensed ".benefit-lead" ".benefit-brand", and ".benefit-cost" into 1 style because it's using the same style
 
 Changed div class="footer" to footer tag
+
+Added min-height: and changed the height: to auto for the blue boxes making them responsive.
+
+
